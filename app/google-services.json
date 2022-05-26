@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634273376413",
+    "project_id": "tubesdatabase",
+    "storage_bucket": "tubesdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634273376413:android:e329c37dc3651157d08c74",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634273376413-7l33mr1k53f6k1qlhj5hbs5s6vvr8ufu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWne6mAVKoXWdI9hcNWYkLe7JuGCoQN48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634273376413-7l33mr1k53f6k1qlhj5hbs5s6vvr8ufu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
